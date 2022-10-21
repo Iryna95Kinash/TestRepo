@@ -1,2 +1,3 @@
 First changes
 Second change (for branch 1)
+New change (for branch 1)
