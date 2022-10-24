@@ -1,4 +1,4 @@
 First changes
-Second change (for branch 1)
-New change (for branch 1)
+Second change
+New change
 Random branch
